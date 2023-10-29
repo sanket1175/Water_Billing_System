@@ -30,6 +30,3 @@ Create your own user
 Admin
 user: admin
 pass: admin
-
-****** https://www.campcodes.com ******
-Subcribe my You tube Channel **** SerBermz ****
